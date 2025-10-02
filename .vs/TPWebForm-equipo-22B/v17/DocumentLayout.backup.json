@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:05:52.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:05:52.1Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Site1.Master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:53:42.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T18:53:42.327Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIA7wBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:46:33.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T18:46:33.624Z"
             },
             {
               "$type": "Document",
