@@ -134,5 +134,83 @@ namespace TP_N_4_WebForms.Datos
                 cerrarConexion(); 
             }
         }
+
+        public List<Articulo> ListarArticulosBase()
+        {
+            List<Articulo> lista = new List<Articulo>();
+            try
+            {
+                setearConsulta("SELECT A.Id, A.Codigo, A.Nombre, A.Descripcion, A.Precio, " +
+                               "M.Id AS IdMarca, M.Descripcion AS MarcaDesc, " +
+                               "C.Id AS IdCategoria, C.Descripcion AS CategoriaDesc " +
+                               "FROM ARTICULOS A " +
+                               "INNER JOIN MARCAS M ON A.IdMarca = M.Id " +
+                               "INNER JOIN CATEGORIAS C ON A.IdCategoria = C.Id");
+
+                ejecutarLectura(); 
+
+                while (Lector.Read())
+                {
+                    Articulo aux = new Articulo();
+
+                    aux.Id = (int)Lector["Id"];
+                    aux.Codigo = (string)Lector["Codigo"];
+                    aux.Nombre = (string)Lector["Nombre"];
+                    aux.Descripcion = (string)Lector["Descripcion"];
+                    aux.Precio = (decimal)Lector["Precio"];
+
+                    aux.Marca = new Marca();
+                    aux.Marca.Id = (int)Lector["IdMarca"];
+                    aux.Marca.Descripcion = (string)Lector["MarcaDesc"];
+
+                    aux.Categoria = new Categoria();
+                    aux.Categoria.Id = (int)Lector["IdCategoria"];
+                    aux.Categoria.Descripcion = (string)Lector["CategoriaDesc"];
+
+                    lista.Add(aux);
+                }
+                return lista;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al listar artículos base desde la DB.", ex);
+            }
+            finally
+            {
+                cerrarConexion();
+            }
+        }
+
+        public List<Imagen> ListarImagenesPorArticulo(int idArticulo)
+        {
+            List<Imagen> lista = new List<Imagen>();
+
+            try
+            {
+                setearConsulta("SELECT Id, IdArticulo, ImagenUrl FROM IMAGENES WHERE IdArticulo = @id");
+                Comando.Parameters.Clear();
+                Comando.Parameters.AddWithValue("@id", idArticulo);
+
+                ejecutarLectura();
+
+                while (Lector.Read())
+                {
+                    Imagen img = new Imagen();
+                    img.Id = (int)Lector["Id"];
+                    img.IdArticulo = (int)Lector["IdArticulo"];
+                    img.ImagenURL = (string)Lector["ImagenUrl"];
+                    lista.Add(img);
+                }
+                return lista;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al listar imágenes desde la DB.", ex);
+            }
+            finally
+            {
+                cerrarConexion();
+            }
+        }
     }
 }

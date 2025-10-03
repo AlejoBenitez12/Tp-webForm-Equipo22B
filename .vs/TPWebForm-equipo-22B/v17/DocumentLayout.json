@@ -3,31 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\ingresovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\ingresovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\ingresovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\ingresovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\ingresovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\ingresovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\seleccionarpremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\seleccionarpremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\entidades\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\entidades\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\seleccionarpremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\seleccionarpremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\entidades\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\entidades\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\c# progra 3\\tpwebform-equipo-22b\\tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\tp-n\u00B04-webforms\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,37 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\packages.config",
-              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\packages.config",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\packages.config",
-              "RelativeToolTip": "TP-N\u00B04-WebForms\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-02T20:14:01.195Z",
+              "DocumentIndex": 2,
+              "Title": "SeleccionarPremio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:13:22.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "SeleccionarPremio.aspx",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\SeleccionarPremio.aspx",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\SeleccionarPremio.aspx",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\SeleccionarPremio.aspx",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\SeleccionarPremio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T21:11:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IngresoVoucher.aspx.cs",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
               "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
               "RelativeToolTip": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T20:12:28.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IngresoVoucher.aspx",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx",
@@ -101,33 +122,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Voucher.cs",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Voucher.cs",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Entidades\\Voucher.cs",
               "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Voucher.cs",
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Voucher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:56:23.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:56:23.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ArticuloNegocio.cs",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Negocio\\ArticuloNegocio.cs",
               "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Negocio\\ArticuloNegocio.cs",
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Negocio\\ArticuloNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:53:43.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:53:43.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ClienteNegocio.cs",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Negocio\\ClienteNegocio.cs",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Negocio\\ClienteNegocio.cs",
@@ -135,12 +154,11 @@
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Negocio\\ClienteNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:53:33.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:53:33.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "VoucherNegocio.cs",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Negocio\\VoucherNegocio.cs",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Negocio\\VoucherNegocio.cs",
@@ -148,63 +166,23 @@
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Negocio\\VoucherNegocio.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:53:21.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:53:21.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Datos\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Datos\\AccesoDatos.cs",
               "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Datos\\AccesoDatos.cs",
               "RelativeToolTip": "TP-N\u00B04-WebForms\\Datos\\AccesoDatos.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAgwAsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAgwNMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:38:21.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:38:21.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Imagen.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
-              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
-              "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:05:52.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Site1.Master.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Site1.Master.cs",
-              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Site1.Master.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Site1.Master.cs",
-              "RelativeToolTip": "TP-N\u00B04-WebForms\\Site1.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:53:42.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
-              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
-              "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIA7wBEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:46:33.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Site1.Master",
               "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Site1.Master",
@@ -214,6 +192,54 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-02T17:13:10.995Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\packages.config",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\packages.config",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\packages.config",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-02T20:14:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:05:52.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:53:42.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\C# Progra 3\\TPWebForm-equipo-22B\\TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Entidades\\Articulo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA7wBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:46:33.624Z"
             }
           ]
         }
