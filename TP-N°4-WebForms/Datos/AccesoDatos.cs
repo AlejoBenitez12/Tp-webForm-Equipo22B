@@ -212,5 +212,45 @@ namespace TP_N_4_WebForms.Datos
                 cerrarConexion();
             }
         }
+
+        public Cliente BuscarCliente(string dni)
+        {
+            Cliente cliente = null;
+            try
+            {
+                setearConsulta("SELECT Id, Nombre, Apellido, Email, Documento FROM CLIENTES WHERE Documento = @Documento");
+                Comando.Parameters.Clear();
+                Comando.Parameters.AddWithValue("@Documento", dni);
+
+                ejecutarLectura();
+
+                if (Lector.Read())
+                {
+                    cliente = new Cliente();
+                    cliente.Id = (int)Lector["Id"];
+
+                    if (Lector["Nombre"] != DBNull.Value)
+                        cliente.Nombre = (string)Lector["Nombre"];
+
+                    if (Lector["Apellido"] != DBNull.Value)
+                        cliente.Apellido = (string)Lector["Apellido"];
+
+                    if (Lector["Email"] != DBNull.Value)
+                        cliente.Email = (string)Lector["Email"];
+
+                    cliente.Documento = (string)Lector["Documento"];
+                }
+
+                return cliente;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al buscar cliente por Documento.", ex);
+            }
+            finally
+            {
+                cerrarConexion();
+            }
+        }
     }
 }

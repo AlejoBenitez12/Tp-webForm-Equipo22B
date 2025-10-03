@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="IngresoVoucher.aspx" />
+    <Content Include="Registracion.aspx" />
     <Content Include="SeleccionarPremio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -94,6 +95,13 @@
     <Compile Include="Negocio\ClienteNegocio.cs" />
     <Compile Include="Negocio\VoucherNegocio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registracion.aspx.cs">
+      <DependentUpon>Registracion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registracion.aspx.designer.cs">
+      <DependentUpon>Registracion.aspx</DependentUpon>
+    </Compile>
     <Compile Include="SeleccionarPremio.aspx.cs">
       <DependentUpon>SeleccionarPremio.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
