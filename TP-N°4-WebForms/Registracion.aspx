@@ -50,7 +50,20 @@
                             <asp:TextBox ID="txtCP" runat="server" CssClass="form-control" Enabled="false"></asp:TextBox>
                         </div>
                     </div>
-                    <hr />
+                    <hr class="mt-4"/>
+                    <div class="row mt-3"> 
+                        <div class="col-md-12">
+                            <div class="form-check"> 
+                                <asp:CheckBox ID="chkAceptarTerminos" runat="server" CssClass="form-check-input" />
+                                <asp:Label ID="lblTerminos" runat="server" CssClass="form-check-label">
+                                    Acepto los <a href="#" target="_blank">Términos y Condiciones</a>
+                                </asp:Label>
+                            </div>
+                            <div class="mt-2">
+                                <asp:Label ID="lblErrorTerminos" runat="server" ForeColor="Red" Visible="false"></asp:Label>
+                            </div>
+                        </div>
+                    </div>
                     
                     <div class="d-grid gap-2 mt-4">
                         <asp:Button ID="btnConfirmar" runat="server" Text="Confirmar Canje y Registrar Datos" 

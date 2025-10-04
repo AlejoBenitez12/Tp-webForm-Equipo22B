@@ -13,6 +13,7 @@ namespace TP_N_4_WebForms
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
             if (!IsPostBack)
             {
                 lblMensajeError.Text = "";

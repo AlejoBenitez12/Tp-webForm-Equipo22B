@@ -95,6 +95,16 @@ namespace TP_N_4_WebForms
         {
             lblMensaje.Text = "";
 
+            lblErrorTerminos.Visible = false;
+
+            if (!chkAceptarTerminos.Checked)
+            {
+                lblErrorTerminos.Text = "Debe aceptar los Términos y Condiciones.";
+                lblErrorTerminos.Visible = true;
+                return; 
+            }
+
+
             if (Session["VoucherActual"] == null)
             {
                 lblMensaje.Text = "Error: La sesión de canje ha expirado. Por favor, intente de nuevo.";
@@ -139,7 +149,7 @@ namespace TP_N_4_WebForms
             catch (Exception ex)
             {
                 lblMensaje.Text = "ERROR GRAVE: No se pudo completar la transacción. " + ex.Message;
-            }
+            } 
         }
     }
 }
