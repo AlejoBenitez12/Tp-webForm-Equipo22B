@@ -54,10 +54,6 @@ namespace TP_N_4_WebForms.Datos
             {
                 throw ex;
             }
-            finally
-            {
-                cerrarConexion(); 
-            }
         }
 
         public object ejecutarAccionScalar()
@@ -71,12 +67,9 @@ namespace TP_N_4_WebForms.Datos
             catch (Exception ex)
             {
                 throw ex;
-            }
-            finally
-            {
-                cerrarConexion();
-            }
+            }           
         }
+
         public void cerrarConexion()
         {
             if (lector != null)
@@ -218,7 +211,7 @@ namespace TP_N_4_WebForms.Datos
             Cliente cliente = null;
             try
             {
-                setearConsulta("SELECT Id, Nombre, Apellido, Email, Documento FROM CLIENTES WHERE Documento = @Documento");
+                setearConsulta("SELECT Id, Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP FROM Clientes WHERE Documento = @Documento");
                 Comando.Parameters.Clear();
                 Comando.Parameters.AddWithValue("@Documento", dni);
 
@@ -228,6 +221,7 @@ namespace TP_N_4_WebForms.Datos
                 {
                     cliente = new Cliente();
                     cliente.Id = (int)Lector["Id"];
+                    cliente.Documento = (string)Lector["Documento"];
 
                     if (Lector["Nombre"] != DBNull.Value)
                         cliente.Nombre = (string)Lector["Nombre"];
@@ -238,7 +232,15 @@ namespace TP_N_4_WebForms.Datos
                     if (Lector["Email"] != DBNull.Value)
                         cliente.Email = (string)Lector["Email"];
 
-                    cliente.Documento = (string)Lector["Documento"];
+                    if (Lector["Direccion"] != DBNull.Value)
+                        cliente.Direccion = (string)Lector["Direccion"];
+
+                    if (Lector["Ciudad"] != DBNull.Value)
+                        cliente.Ciudad = (string)Lector["Ciudad"];
+
+                    if (Lector["CP"] != DBNull.Value)
+                        cliente.CP = (int)Lector["CP"];
+
                 }
 
                 return cliente;
@@ -250,6 +252,74 @@ namespace TP_N_4_WebForms.Datos
             finally
             {
                 cerrarConexion();
+            }
+        }
+
+        public int InsertarNuevoCliente(Cliente nuevo)
+        {
+            try
+            {
+                setearConsulta("INSERT INTO Clientes (Nombre, Apellido, Email, Documento, Direccion, Ciudad, CP) VALUES (@Nombre, @Apellido, @Email, @Documento, @Direccion, @Ciudad, @CP); SELECT CAST(SCOPE_IDENTITY() AS INT)");
+
+                Comando.Parameters.Clear();
+                Comando.Parameters.AddWithValue("@Nombre", nuevo.Nombre);
+                Comando.Parameters.AddWithValue("@Apellido", nuevo.Apellido);
+                Comando.Parameters.AddWithValue("@Email", nuevo.Email);
+                Comando.Parameters.AddWithValue("@Documento", nuevo.Documento);
+                Comando.Parameters.AddWithValue("@Direccion", nuevo.Direccion);
+                Comando.Parameters.AddWithValue("@Ciudad", nuevo.Ciudad);
+                Comando.Parameters.AddWithValue("@CP", nuevo.CP);
+
+                return (int)ejecutarAccionScalar();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al insertar un nuevo cliente en la DB.", ex);
+            }
+            finally
+            {
+                cerrarConexion();
+            }
+        }
+
+        public void FinalizarCanje(Voucher canjeado, int idCliente)
+        {
+            try
+            {
+                setearConsulta("UPDATE Vouchers SET IdCliente = @IdCliente, IdArticulo = @IdArticulo, FechaCanje = GETDATE() WHERE CodigoVoucher = @Codigo AND FechaCanje IS NULL");
+
+                Comando.Parameters.Clear();
+                Comando.Parameters.AddWithValue("@IdCliente", idCliente);
+                Comando.Parameters.AddWithValue("@IdArticulo", canjeado.IdArticulo.HasValue ? (object)canjeado.IdArticulo.Value : DBNull.Value);
+                Comando.Parameters.AddWithValue("@Codigo", canjeado.CodigoVoucher);
+                ejecutarAccion();
+
+                Comando.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                string mensajeError = ex.InnerException?.Message ?? ex.Message;
+
+                throw new Exception("Error al finalizar el canje del voucher en la DB. Detalle: " + mensajeError);
+            }
+            finally
+            {
+                cerrarConexion();
+            }
+        }
+
+        public void ResetearVoucher(string codigo)
+        {
+            try
+            {
+                setearConsulta("UPDATE Vouchers SET IdCliente = NULL, IdArticulo = NULL, FechaCanje = NULL WHERE CodigoVoucher = @codigo");
+                Comando.Parameters.Clear();
+                Comando.Parameters.AddWithValue("@codigo", codigo);
+                ejecutarAccion();
+            }
+            catch 
+            {
+                
             }
         }
     }

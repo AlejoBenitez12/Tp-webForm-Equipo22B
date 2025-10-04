@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ConfirmacionCanje.aspx" />
     <Content Include="Global.asax" />
     <Content Include="IngresoVoucher.aspx" />
     <Content Include="Registracion.aspx" />
@@ -74,6 +75,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConfirmacionCanje.aspx.cs">
+      <DependentUpon>ConfirmacionCanje.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConfirmacionCanje.aspx.designer.cs">
+      <DependentUpon>ConfirmacionCanje.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Datos\AccesoDatos.cs" />
     <Compile Include="Entidades\Articulo.cs" />
     <Compile Include="Entidades\Categoria.cs" />

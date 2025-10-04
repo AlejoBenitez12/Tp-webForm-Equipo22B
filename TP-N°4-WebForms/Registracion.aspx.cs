@@ -48,6 +48,9 @@ namespace TP_N_4_WebForms
                     txtNombre.Text = clienteEncontrado.Nombre;
                     txtApellido.Text = clienteEncontrado.Apellido;
                     txtEmail.Text = clienteEncontrado.Email;
+                    txtDireccion.Text = clienteEncontrado.Direccion;
+                    txtCiudad.Text = clienteEncontrado.Ciudad;
+                    txtCP.Text = clienteEncontrado.CP.ToString();
 
                     Session["ClienteActual"] = clienteEncontrado;
                     lblMensaje.Text = "Cliente encontrado. Confirme el canje.";
@@ -62,6 +65,9 @@ namespace TP_N_4_WebForms
                     txtNombre.Text = "";
                     txtApellido.Text = "";
                     txtEmail.Text = "";
+                    txtDireccion.Text = "";
+                    txtCiudad.Text = "";
+                    txtCP.Text = "";
 
                     lblMensaje.Text = "Cliente no encontrado. Ingrese sus datos para registrarse y confirmar.";
 
@@ -80,11 +86,60 @@ namespace TP_N_4_WebForms
             txtNombre.Enabled = habilitar;
             txtApellido.Enabled = habilitar;
             txtEmail.Enabled = habilitar;
+            txtDireccion.Enabled = habilitar;
+            txtCiudad.Enabled = habilitar;
+            txtCP.Enabled = habilitar;
         }
 
         protected void btnConfirmar_Click(object sender, EventArgs e)
         {
-            // LÓGICA FINAL PENDIENTE: Registrar cliente (si es nuevo) y realizar el canje.
+            lblMensaje.Text = "";
+
+            if (Session["VoucherActual"] == null)
+            {
+                lblMensaje.Text = "Error: La sesión de canje ha expirado. Por favor, intente de nuevo.";
+
+                ClientScript.RegisterStartupScript(this.GetType(), "redir", "setTimeout(function(){ window.location.href = 'IngresoVoucher.aspx'; }, 3000);", true);
+                return;
+            }
+
+            if (string.IsNullOrEmpty(txtNombre.Text) || string.IsNullOrEmpty(txtApellido.Text) || string.IsNullOrEmpty(txtEmail.Text)
+            || string.IsNullOrEmpty(txtDireccion.Text) || string.IsNullOrEmpty(txtCiudad.Text) || string.IsNullOrEmpty(txtCP.Text)) 
+            {
+                lblMensaje.Text = "Por favor, complete todos los campos obligatorios (incluyendo Dirección, Ciudad y CP).";
+                return;
+            }
+
+            try
+            {
+                Voucher voucher = (Voucher)Session["VoucherActual"];
+
+                Cliente cliente = new Cliente();
+
+                if (Session["ClienteActual"] != null)
+                {
+                    cliente = (Cliente)Session["ClienteActual"];
+                }
+
+                cliente.Nombre = txtNombre.Text;
+                cliente.Apellido = txtApellido.Text;
+                cliente.Email = txtEmail.Text;
+                cliente.Documento = txtDNI.Text;
+                cliente.Direccion = txtDireccion.Text;
+                cliente.Ciudad = txtCiudad.Text;
+                cliente.CP = int.Parse(txtCP.Text);
+
+                ClienteNegocio negocio = new ClienteNegocio();
+                negocio.RegistrarCanje(cliente, voucher);
+
+                Session.Remove("VoucherActual");
+                Session.Remove("ClienteActual");
+                Response.Redirect("ConfirmacionCanje.aspx", false);
+            }
+            catch (Exception ex)
+            {
+                lblMensaje.Text = "ERROR GRAVE: No se pudo completar la transacción. " + ex.Message;
+            }
         }
     }
 }
