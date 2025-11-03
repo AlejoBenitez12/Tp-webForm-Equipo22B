@@ -1,0 +1,9 @@
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\bin\Debug\Datos.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\bin\Debug\Datos.pdb
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\bin\Debug\Dominio.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\bin\Debug\Dominio.pdb
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\obj\Debug\Datos.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Datos\obj\Debug\Datos.pdb

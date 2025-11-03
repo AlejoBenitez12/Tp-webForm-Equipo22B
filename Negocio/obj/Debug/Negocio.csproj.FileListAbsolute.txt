@@ -1,0 +1,11 @@
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\bin\Debug\Negocio.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\bin\Debug\Negocio.pdb
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\bin\Debug\Datos.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\bin\Debug\Dominio.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\bin\Debug\Datos.pdb
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\bin\Debug\Dominio.pdb
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\obj\Debug\Negocio.dll
+C:\Users\alejo\Desktop\Tp-webForm-Equipo22B-main (3)\Tp-webForm-Equipo22B-main\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|c:\\users\\alejo\\desktop\\tp-webform-equipo22b-main (3)\\tp-webform-equipo22b-main\\tp-n\u00B04-webforms\\seleccionarpremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\seleccionarpremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\registracion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\registracion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\ingresovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\ingresovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\confirmacioncanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\confirmacioncanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93485E2-7A81-49FD-8140-573947BF57F5}|Negocio\\Negocio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93485E2-7A81-49FD-8140-573947BF57F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93485E2-7A81-49FD-8140-573947BF57F5}|Negocio\\Negocio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93485E2-7A81-49FD-8140-573947BF57F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93485E2-7A81-49FD-8140-573947BF57F5}|Negocio\\Negocio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93485E2-7A81-49FD-8140-573947BF57F5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\confirmacioncanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\confirmacioncanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\ingresovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\ingresovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\ingresovoucher.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\ingresovoucher.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9549276D-ABFC-41E2-9FFD-9925EA80C5F3}|Datos\\Datos.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9549276D-ABFC-41E2-9FFD-9925EA80C5F3}|Datos\\Datos.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCA43C-A704-4C58-89BD-493178D21186}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\registracion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\registracion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\registracion.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\registracion.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\tp-n\u00B04-webforms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA8BAA-B578-4929-A2A6-825552276374}|TP-N\u00B04-WebForms\\TP-N\u00B04-WebForms.csproj|solutionrelative:tp-n\u00B04-webforms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngresoVoucher.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:12:28.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionarPremio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\SeleccionarPremio.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:13:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfirmacionCanje.aspx",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T17:21:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmacionCanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\ConfirmacionCanje.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:21:56.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registracion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Registracion.aspx.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Registracion.aspx.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Registracion.aspx.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Registracion.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:54:56.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Negocio\\VoucherNegocio.cs",
+              "RelativeToolTip": "Negocio\\VoucherNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:39:10.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Negocio\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ClienteNegocio.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Negocio\\ClienteNegocio.cs",
+              "RelativeToolTip": "Negocio\\ClienteNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:39:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:38:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngresoVoucher.aspx",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T20:11:13.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:35:24.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:35:31.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "Dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Voucher.cs",
+              "RelativeToolTip": "Dominio\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:35:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Datos\\AccesoDatos.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwIYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:36:16.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IngresoVoucher.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\IngresoVoucher.aspx.designer.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\IngresoVoucher.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:49:07.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:35:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "Dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Imagen.cs",
+              "RelativeToolTip": "Dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:35:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "Dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\Dominio\\Cliente.cs",
+              "RelativeToolTip": "Dominio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:35:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registracion.aspx",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Registracion.aspx",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Registracion.aspx",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Registracion.aspx",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Registracion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T16:54:59.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Registracion.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Registracion.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Registracion.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Registracion.aspx.designer.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Registracion.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:59:08.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Site1.Master",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Site1.Master",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Site1.Master",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T17:13:10.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\packages.config",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\packages.config",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\packages.config",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-02T20:14:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\Tp-webForm-Equipo22B-main (3)\\Tp-webForm-Equipo22B-main\\TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "RelativeToolTip": "TP-N\u00B04-WebForms\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:53:42.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
